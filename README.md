@@ -1,0 +1,1 @@
+# plugin-profiler.php
