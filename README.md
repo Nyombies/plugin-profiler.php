@@ -1,4 +1,4 @@
-# Plugin Load Profiler (Accurate)
+# Plugin Load Profiler
 
 A lightweight WordPress plugin for profiling admin-side plugin load times and key hook timings, designed for diagnostic use on live sites.
 
